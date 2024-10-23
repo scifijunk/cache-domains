@@ -1,2 +1,0 @@
-us.archive.ubuntu.com
-security.ubuntu.com
